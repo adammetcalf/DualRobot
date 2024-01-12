@@ -12,16 +12,16 @@ Robot2Active = true;
 %% Adjustable Variables
 
 %Define Target Point Robot 1
-TargetPoint1 = [0,-.15,0];
+TargetPoint1 = [0.15,0,0];
 
 %Define Target Point Robot 2
-TargetPoint2 = [0,0.15,0];
+TargetPoint2 = [-0.15,0,0];
 
 %Define Magnet Orientation Robot 1
-MagOrient1 =[-pi/2, 0, pi/2];               %[Rx, Ry Rz]
+MagOrient1 =[0, 0, pi];               %[Rx, Ry Rz]
 
 %Define Magnet orientation Robot 2
-MagOrient2 = [pi/2, 0, 0];
+MagOrient2 = [pi, 0, 0];
 
 %% Constants
 

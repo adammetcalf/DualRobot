@@ -24,8 +24,8 @@
   <joint name="base_link_to_chassis" type="fixed">
     <parent link="base_link"/>
     <child link="lbr_iiwa_link_0"/>
-    <origin rpy="0 0 3.9270" xyz="0.8839 -0.3889 -0.42"/>
-    <!-- RobotFrame rpy="0 0 3.14" xyz="0.32 -0.84 -0.42" -->
+    <origin rpy="0 0 1.57" xyz="-0.8839 -0.3889 -0.42"/>
+    <!-- RobotFrame rpy="0 0 1.57" xyz="-0.8839 -0.3889 -0.42" -->
   </joint>
 
 

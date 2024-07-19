@@ -98,7 +98,7 @@ set(hFig, 'units', 'normalized', 'outerposition', [0 0 1 1]);
 ax = axes('Parent', hFig);
 hold(ax, 'on');
 axis(ax, 'equal');
-axis(ax, [-0.2 0.2 -0.2 0.2 -0.2 0.2]);  %[-1 1 -1 1 -0.42 1]; [-0.2 0.2 -0.2 0.2 -0.2 0.2]
+axis(ax, [-1 1 -1 1 -1 1]);  %[-1 1 -1 1 -0.42 1]; [-0.2 0.2 -0.2 0.2 -0.2 0.2]
 grid(ax, 'on');
 xlabel(ax, 'X');
 ylabel(ax, 'Y');

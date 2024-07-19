@@ -1,4 +1,4 @@
-%Plot 2 Kuka with desired pose, visulise magnetic field interaction of EPMs
+%Plot 2 Kuka with desired pose, visualise magnetic field interaction of EPMs
 
 %% Clear all previous
 close all;
